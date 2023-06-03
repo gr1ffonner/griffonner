@@ -9,4 +9,11 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "gruvbox.nvim",
+    opts = {
+      italic = false
+    }
+  },
 }
+
