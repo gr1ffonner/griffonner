@@ -1,4 +1,6 @@
 # My AstroNvim config
+![image](https://github.com/gr1ffonner/griffonner/assets/112549266/433703a8-c29d-463e-92d4-f6b438bd0c6e)
+
 
 
 ## 🛠️ Installation
